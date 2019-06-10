@@ -140,8 +140,8 @@ post内容：
 
 ```json
 {
-  "appid":10000,
-  "timestamp":1438319793,
+	"appid":10000,
+	"timestamp":1438319793,
   "rand_str":"3e5a036cb4bc3a677a38ad9d69eb3feb",
   "req":{}
 }
